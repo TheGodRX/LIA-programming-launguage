@@ -1,0 +1,1 @@
+{"updatesystem": "sudo apt update", "list": "ls", "upgrade": "sudo apt upgrade -y"}
