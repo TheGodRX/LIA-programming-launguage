@@ -11,7 +11,7 @@ A new programming language I created using python
 6. Exit the program.
 Enter your choice:
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/codercoins/LIA-programming-launguage/main/Screenshot%20(46).png)
 
 ██████╗ ██████╗ ███╗   ██╗███████╗ ██████╗ ██╗     ██████╗ 
 ██╔════╝██╔═████╗████╗  ██║██╔════╝██╔═████╗██║     ╚════██╗
