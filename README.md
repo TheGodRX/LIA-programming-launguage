@@ -1,7 +1,13 @@
 # LIA-programming-launguage
-A new programming language I created using python
+A new programming language I created.
 
-*Useage: python UpdatedLia.py *
+
+
+*Install: git clone https://github.com/codercoins/LIA-programming-launguage.git 
+cd LIA-programming-launguage 
+
+
+*Useage: python LIAx.py *
 
 1. Add a new command
 2. Run a .lia file
